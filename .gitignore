@@ -3,3 +3,6 @@ Lib/Azure Storage Client Library/AZSClient.xcodeproj/xcuserdata
 contents.xcworkspacedata
 BlobSample/BlobSample.xcodeproj/project.xcworkspace/
 BlobSample/BlobSample.xcodeproj/xcuserdata/
+Lib/Azure Storage Client Library/Carthage
+Lib/Azure Storage Client Library/DerivedData
+Carthage
